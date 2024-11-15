@@ -14,6 +14,6 @@ The NASA IGBT Accelerated Aging Dataset can be downloaded from the following lin
 [Download Dataset](https://drive.google.com/drive/folders/1kdrWGIBv9tk4RfqmBe2-XBqQW6oLoVec?usp=drive_link)
 
 ## Usage
-1. Clone or Download the Dataset  Clone the dataset repository or manually download the dataset into a directory on your local machine.  
-2. Update Dataset Path in Notebook  After cloning the dataset, ensure that the dataset path is correctly specified in the provided Jupyter notebooks under the Read Pickle Data section.
+1. Clone or Download the Dataset: Clone the dataset repository or manually download the dataset into a directory on your local machine.  
+2. Update Dataset Path in Notebook: After cloning the dataset, ensure that the dataset path is correctly specified in the provided Jupyter notebooks under the Read Pickle Data section.
 3. Run Notebook Sections Sequentially  
